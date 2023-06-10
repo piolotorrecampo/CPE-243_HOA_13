@@ -1,0 +1,5 @@
+[ubuntu]
+192.168.240.132 ansible_user="ubuntudesktop" 
+
+[centos]
+192.168.240.135 ansible_user="managed_node_two" 
